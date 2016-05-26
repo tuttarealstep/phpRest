@@ -1,2 +1,2 @@
 # phpRest
-An RESTfulAPI backend service written in php
+An dedicated **RESTful** API backend service written in php
